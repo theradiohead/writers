@@ -10,7 +10,7 @@ connectDB();
 
 //CORS
 var corsOptions = {
-  origin: "http://localhost:30726",
+  origin: "http://localhost:3000",
 };
 
 app.use(cors(corsOptions));
