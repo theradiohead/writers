@@ -1,0 +1,11 @@
+export const CREATE_POST = "CREATE_POST";
+export const GET_ALL_POSTS = "GET_ALL_POSTS";
+export const GET_POST = "GET_POST";
+export const UPDATE_POST = "UPDATE_POST";
+export const DELETE_POST = "DELETE_POST";
+
+export const CREATE_POST_ERROR = "CREATE_POST_ERROR";
+export const GET_ALL_POSTS_ERROR = "GET_ALL_POSTS_ERROR";
+export const GET_POST_ERROR = "GET_POST_ERROR";
+export const UPDATE_POST_ERROR = "UPDATE_POST_ERROR";
+export const DELETE_POST_ERROR = "DELETE_POST_ERROR";
